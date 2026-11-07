@@ -28,4 +28,4 @@ def ordenar_datos():
     print(f"El número menor es: {numero_menor}")
 
 
-ordenar_datos()
+ordenar_datos() 
